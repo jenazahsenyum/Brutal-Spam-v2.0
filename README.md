@@ -9,4 +9,4 @@ Tools ini Digunakan untuk Spam Penipu.Mantan dan Doi
 - pip2 install mechanize
 - python2 Brutal-Spam2.py
 
-# SEMOGA BERHASIL
+# SEMOGA BERHASIL SAYANG
