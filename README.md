@@ -5,7 +5,7 @@ Tools ini Digunakan untuk Spam Penipu.Mantan dan Doi
 $ pkg update
 $ pkg upgrade
 $ git clone https://github.com/jenazahsenyum/Brutal-Spam-v2.0
-$ cd Brutal-Spam2
+$ cd Brutal-Spam-V2.0
 $ pip2 install mechanize
 $ python2 Brutal-Spam.py
 
